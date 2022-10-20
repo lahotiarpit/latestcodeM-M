@@ -38,7 +38,7 @@
         "react-native-paper": "^3.6.0",
         "react-native-phone-call": "^1.0.9",
         "react-native-progress-steps": "^1.2.8",
-        "react-native-reanimated": "^1.7.0",
+        "react-native-reanimated": "^2.10.0",
         "react-native-safe-area-context": "^0.6.4",
         "react-native-screens": "^2.0.0-beta.13",
         "react-native-shared-preferences": "^1.0.1",
